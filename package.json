@@ -1,0 +1,8 @@
+{
+  "name": "fullstack",
+  "version": "1.0.0",
+  "description": "una forma de aprender javascript profesional para empresas",
+  "main": "index.js",
+  "author": "JuanLuisClaure",
+  "license": "MIT"
+}
